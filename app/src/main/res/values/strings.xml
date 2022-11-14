@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Escritores</string>
+    <string name="name_user">CF</string>
+    <string name="letter_logo">L</string>
+    <string name="title_page_four">Acerca de mí</string>
+    <string name="about_text">Mi nombre es Claudio Fuentes, soy estudiante en el Instituto Tecnólogico de Educacion Superior. Actualmente estoy cursando el último año de la carrera de Desarrollo de Software</string>
+    <string name="about_icon">?</string>
+    <string name="title_page_two">Obras del Autor</string>
+    <string name="title_page_three">Breve Reseña</string>
+    <string name="name_title">Escritores</string>
+    <string name="arrow">&lt;</string>
+    <string name="name_label">Nombre</string>
+    <string name="author_borges">Jorge Luis Borges</string>
+    <string name="author_sabato">Ernesto Sabato</string>
+    <string name="author_arlt">Roberto Arlt</string>
+    <string name="author_casares">Adolfo Bioy Casares</string>
+    <string name="author_cortazar">Julio Cortazar</string>
+    <string name="user_label">Usuario</string>
+    <string name="title_page_one">Escritores Argentinos</string>
+    <string name="login_button">Ingresar</string>
+    <string name="forget_password">Olvidé mi contraseña</string>
+    <string name="hint_input_user">Usuario</string>
+    <string name="hint_input_password">Contraseña</string>
+    <string name="title_provider">Proveedores</string>
+</resources>
